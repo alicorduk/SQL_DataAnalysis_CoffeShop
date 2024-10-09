@@ -5,7 +5,7 @@
 The goal of this project is to analyze the sales data of Coffee Shop, a company that has been selling its products online since January 2023, and to recommend the top three major cities for opening new coffee shop locations based on consumer demand and sales performance.
 
 ## ERD For Database
-(https://github.com/alicorduk/SQL_DataAnalysis_CoffeShop/blob/main/ERD_For_DB.png)
+![](https://github.com/alicorduk/SQL_DataAnalysis_CoffeShop/blob/main/ERD_For_DB.png)
 
 ## Key Questions
 1. **Coffee Consumers Count**  
